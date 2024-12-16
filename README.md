@@ -2,7 +2,6 @@
 
 - 🌱 estou cursando Analise e Desenvolvimento de Sistemas
 - 📫 Instagram: Sk_felps
-- 😄 Pronouns: Ele/Dele
 
 <div>
 <a href="https://beacons.ai/felpsz322">
