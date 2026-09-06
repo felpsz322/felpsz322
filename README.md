@@ -1,13 +1,20 @@
-## Olá! me chamo Felipe da Silva 
+# Hey there! 👋
 
-- 🌱 estou cursando Analise e Desenvolvimento de Sistemas
-- 📫 Instagram: Sk_felps
+I'm **Felipe**, a SQL & Database Developer based in Brazil.
 
-<div>
-<a href="https://beacons.ai/felpsz322">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felpsz322&show_icons=true&theme=aura_dark&include_all_commits-true&count_private-true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsz322&layout-compact&langs_count-16&theme=aura_dark"/>
-</div>
+I build, model, and query relational databases to make sense of complex data.
+
+If there's data to be structured or an analytics problem to solve, chances are I'll write a query for it.
+
+My main tech stack centers around SQL, MySQL, and PostgreSQL, along with Python and Power BI for data analytics and automation.
+
+I've got a few pinned projects, but my favorite is my [B2B Pharmaceutical Sales Analysis](https://github.com/felpsz322/analise-vendas-b3b-cimed).
+
+**Fun Fact:**
+
+* I'm fluent in LIBRAS (Brazilian Sign Language)
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felpszz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
