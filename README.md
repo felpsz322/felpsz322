@@ -8,7 +8,7 @@ If there's data to be structured or an analytics problem to solve, chances are I
 
 My main tech stack centers around SQL, MySQL, and PostgreSQL, along with Python and Power BI for data analytics and automation.
 
-I've got a few pinned projects, but my favorite is my [B2B Pharmaceutical Sales Analysis](https://github.com/felpsz322/analise-vendas-b3b-cimed).
+I've got a few pinned projects, but my favorite is my [B2B Pharmaceutical Sales Analysis](https://github.com/felpsz322/analise-vendas-b2b-cimed).
 
 **Fun Fact:**
 
