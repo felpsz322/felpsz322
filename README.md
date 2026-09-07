@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Database Development & Analytics 💻
 
 I'm **Felipe**, a SQL & Database Developer based in Brazil.
 
